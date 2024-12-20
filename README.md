@@ -1,7 +1,7 @@
 <h1 align="center">DnCNN Image Denoising</h1>
 
 <p align="center">
-  PyTorch implementation of <a href="https://arxiv.org/pdf/1608.03981">"Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising"</a> trained on the <a href="[https://www.kaggle.com/datasets/wenewone/cub2002011](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500)">Berkeley Segmentation Dataset 500 (BSDS500)</a> dataset with synthetically added Gaussian Noise of varying noise level
+  PyTorch implementation of <a href="https://arxiv.org/pdf/1608.03981">"Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising"</a> trained on the <a href="[https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500)">Berkeley Segmentation Dataset 500 (BSDS500)</a> dataset with synthetically added Gaussian Noise of varying noise level
 </p>
 
 # Model Architecture
@@ -12,7 +12,7 @@ The model is built using the DnCNN architecture described in paper with network 
 
 ## Training Data
 
-The model is trained on the <a href="[https://www.kaggle.com/datasets/wenewone/cub2002011](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500)">Berkeley Segmentation Dataset 500 (BSDS500)</a> datatset available on Kaggle
+The model is trained on the <a href="[https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500](https://www.kaggle.com/datasets/balraj98/berkeley-segmentation-dataset-500-bsds500)">Berkeley Segmentation Dataset 500 (BSDS500)</a> datatset available on Kaggle
 
 ## Training Results
 
